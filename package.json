@@ -27,7 +27,8 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-notion-x": "*",
-    "react-tweet-embed": "^2.0.0"
+    "react-tweet-embed": "^2.0.0",
+    "turbo": "^2.3.3"
   },
   "devDependencies": {
     "@types/react": "18.3.12",
